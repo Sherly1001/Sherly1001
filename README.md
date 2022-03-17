@@ -1,8 +1,11 @@
 ## Hi, I'm Sher <a href="#"><img src="https://i.imgur.com/LATSmAA.png" style="width: 1em;transform: translateY(25%);"/></a>
+### Mean of that name?
+Just is a cute name for Sherlock Holmes. 🕵  
+
+### Something about me?
 
 <a href="#"><img src="https://i.imgur.com/M4f4lv0.gif" align="right" width="150" /></a>
 
-### Something about me?
 :eyes: Anime  
 :headphones: Lofi  
 :video_game: Genshin  
